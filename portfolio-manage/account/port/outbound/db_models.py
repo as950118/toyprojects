@@ -1,0 +1,1 @@
+# Outbound Port 정의 (Database Model)

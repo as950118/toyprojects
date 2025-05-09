@@ -1,0 +1,1 @@
+# Account Pydantic 스키마
